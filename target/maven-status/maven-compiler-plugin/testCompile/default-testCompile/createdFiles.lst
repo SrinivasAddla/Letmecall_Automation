@@ -1,0 +1,5 @@
+com\lmc\customerTest\AddToCartTest.class
+com\lmc\customerTest\OrderReviewTest.class
+com\lmc\customerTest\CheckoutTest.class
+com\lmc\customerTest\LoginTest.class
+com\lmc\customerTest\DeliveryTest.class

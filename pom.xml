@@ -108,7 +108,7 @@
 					<version>${maven-surefire-plugin-version}</version>
 					<configuration>
 						<suiteXmlFiles>
-							<suiteXmlFile>${suiteXml}</suiteXmlFile>
+							<suiteXmlFile>orderReviewtest.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
